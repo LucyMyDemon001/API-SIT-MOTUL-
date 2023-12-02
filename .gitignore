@@ -9,7 +9,8 @@ lerna-debug.log*
 
 node_modules
 .DS_Store
-# dist
+ dist  
+#  comentar, luego de meter comando se descomenta el dist 
 dist-ssr
 coverage
 *.local
