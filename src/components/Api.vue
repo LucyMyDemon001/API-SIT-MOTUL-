@@ -4,7 +4,7 @@
     <!-- Logo and Information Section -->
     <div class="flex items-center justify-center flex-col space-y-4">
       <div class="flex-shrink-0 w-1/3">
-        <img class="w-2/3 h-auto mt-5 mx-auto" src="../../logo2.png" alt="Logo">
+        <!-- <img class="w-2/3 h-auto mt-5 mx-auto" src="../../logo2.png" alt="Logo"> -->
       </div>
       <!-- Text below the logo -->
       <h1 class="text-4xl font-bold text-teal-600 mt-2">SIT MOTUL</h1>
