@@ -1,0 +1,7 @@
+/* tailwind.css o tu archivo CSS principal */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Agrega otras importaciones si las tienes, como fonts o custom styles */
+/* @import 'your-other-styles.css'; */
